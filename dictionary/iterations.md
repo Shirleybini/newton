@@ -60,8 +60,8 @@ for x in details.values():
 #### Output :-
 
 
-`17
-Bijender
+`Bijender
+17
 10th
 `
 
@@ -83,9 +83,9 @@ for x,y in movie.items():
 
 #### Output :-
 
-`('rating', 7.5)
-('hero', 'Vijay')
-('name', 'Puli')
+`name Puli
+hero Vijay
+rating 7.5
 `
    
 
